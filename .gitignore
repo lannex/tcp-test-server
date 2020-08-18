@@ -1,0 +1,10 @@
+/target
+.env
+src/models
+
+4_1.txt
+4_2.txt
+
+# idea
+.idea
+.vscode
